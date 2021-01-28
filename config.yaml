@@ -1,5 +1,5 @@
 baseurl: "/"
-title: Ghostwriter example
+title: Ru Hickson
 theme: ghostwriter
 languageCode: en-us
 copyright: My Name
@@ -28,7 +28,7 @@ privacy:
     useSessionStorage: false
 
 author:
-  name: My Name
+  name: Ru Hickson
   profile: ""
 
 taxonomies:
@@ -38,15 +38,12 @@ params:
   mainSections:
     - post
   intro: true
-  headline: Ghostwriter example
+  headline: Ru's Blog
   description: Ghostwriter example description
-  github: "https://github.com/XXX"
-  gitlab: "https://gitlab.com/XXX"
-  linkedin: "https://linkedin.com/in/XXX/"
-  twitter: "https://twitter.com/XXX"
-  stackoverflow: "https://stackoverflow.com/users/XXX/YYY"
-  facebook: "https://www.facebook.com/username"
-  email: XXX@example.com
+  github: "https://github.com/ruhickson"
+  linkedin: "https://www.linkedin.com/feed/"
+  twitter: "https://twitter.com/ruhickson"
+  stackoverflow: "https://stackoverflow.com/users/ruhksn"
   opengraph: true
   shareTwitter: true
   rss: true
