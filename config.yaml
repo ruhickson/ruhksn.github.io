@@ -39,7 +39,7 @@ params:
     - post
   intro: true
   headline: Ru's Blog
-  description: Ghostwriter example description
+  description: Maths, R, Games, Sports, Social Good
   github: "https://github.com/ruhickson"
   linkedin: "https://www.linkedin.com/feed/"
   twitter: "https://twitter.com/ruhickson"
@@ -73,11 +73,14 @@ menu:
       url: /
       weight: 1
     - name: Projects
-      url: /project/
+      url: /projects
       weight: 2
     - name: Contact
-      url: /page/contact/
+      url: /contact/
       weight: 3
     - name: About
-      url: /page/about/
+      url: /about/
       weight: 4
+    - name: Roarr
+      url: /roarr/
+      weight: 5

@@ -1,13 +1,17 @@
 ---
-author: My Name
-date: "2015-04-03T02:13:50Z"
-description: Things about me.
-title: About
+description: Big Data Energy
+title: Ru Hickson
 ---
+
+![image](/ruprofile.png#profile)
 
 ## About
 
-BLEBLEBLEBL
+- Master of Science in Data Analytics from University
+- Bachelor of Science (Hons) in Mathematical Science from Dublin Institute of Technology
+- Associate Member of the Institute of Mathematics and its Applications
+- Advanced Diploma in Data Protection Law from King's Inns
+
 
 ## School
 

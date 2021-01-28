@@ -1,8 +1,8 @@
 ---
 author: My name
 date: "2014-11-18T02:13:50Z"
-description: Description of my awesome project.
-title: My awesome project
+description: R Project to develop a timeline of events around the first moon landing
+title: Apollo 11 Timeline
 ---
 
 ## About project
