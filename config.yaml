@@ -82,5 +82,5 @@ menu:
       url: /about/
       weight: 4
     - name: Roarr
-      url: /roarr/
+      url: /roarr
       weight: 5
