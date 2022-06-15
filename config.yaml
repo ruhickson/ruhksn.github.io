@@ -81,6 +81,9 @@ menu:
     - name: About
       url: /about/
       weight: 4
+    - name: NanoData
+      url: /nanodata
+      weight: 5
     - name: Roarr
       url: /roarr
-      weight: 5
+      weight: 6
