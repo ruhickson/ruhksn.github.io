@@ -4,7 +4,7 @@ title: Ru Hickson
 ---
 
 # ROARR
-##### (website coming Spring 2021)
+##### (website coming Spring 2023)
 
 ROARR is a philanthropic project that enables the use of data science to help benefit animal rights and welfare around the planet. Projects include:
 - Locating illegal breeding spots
