@@ -12,7 +12,7 @@ description: ''
 
 In the spirit of getting back into blogging, I'm presenting myself with a challenge of watching 10 Found Footage films I've yet to see between now and Halloween. There are 20 weeks, so a fortnightly watch with a couple of hundred words' worth of a review is the target. The films are chosen by my brother, Bob, who has suggested (in no particular order):
 
-- [Quarantined](https://www.imdb.com/title/tt1082868/?ref_=nv_sr_srsg_0)
+- [Quarantine](https://www.imdb.com/title/tt1082868/?ref_=nv_sr_srsg_0)
 - [`[REC]`](https://www.imdb.com/title/tt1038988/?ref_=nv_sr_srsg_1)
 - [`[REC2]`](https://www.imdb.com/title/tt1245112/?ref_=nv_sr_srsg_3)
 - [`[REC3]`](https://www.imdb.com/title/tt1649444/?ref_=nv_sr_srsg_0)

@@ -7,6 +7,8 @@ title: Ru Hickson
 
 ## Skills
 
+[CV](/ru-cv.pdf)
+
 R | Shiny | SQL | Teradata | Postgres | Javascript | React | Vue | AWS | Azure | Google Cloud Platform | Markdown | Git | Crypto | Blockchain | Hadoop | Hive | Pig | Looker | Tableau | PowerBI
 
 ## Work
