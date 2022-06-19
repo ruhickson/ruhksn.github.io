@@ -41,7 +41,7 @@ params:
   headline: Ru's Blog
   description: Maths, R, Games, Sports, Social Good
   github: "https://github.com/ruhickson"
-  linkedin: "https://www.linkedin.com/feed/"
+  linkedin: "https://www.linkedin.com/ruhickson/"
   twitter: "https://twitter.com/ruhickson"
   stackoverflow: "https://stackoverflow.com/users/ruhksn"
   opengraph: true
@@ -84,6 +84,6 @@ menu:
     - name: NanoData
       url: /nanodata
       weight: 5
-    - name: Roarr
-      url: /roarr
-      weight: 6
+    #- name: Roarr
+    #  url: /roarr
+    #  weight: 6
